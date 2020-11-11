@@ -1,24 +1,7 @@
 .list-group{
 	align-items: center;
 }
-.logo{
-	text-align: center;
-}
 
-.sns-icon{
-	list-style: none;
-	text-align: center;
-}
-
-.sns-icon li{
-	padding-top: 30px;
-	margin: 0px 4px; 
-	display: inline-flex;
-}
-
-
-
-/*ここからfooter*/
 footer{
 	background-color: #866629;
 	display: flex;
@@ -32,4 +15,3 @@ footer{
 footer.footer-right{
 	margin-right: 80px; 
 }
-/*ここまでfooter*/
